@@ -21,8 +21,6 @@ Supported Games
 
 -Combat Warriors
 
--Deadly Sins Retribution (YOU MOST LIKELY WILL BE BANNED)
-
 
 
 
