@@ -13,5 +13,6 @@ Supported Games
 - Combat Warriors
 - DaHood
 - Rocitizens
+- YBA
 
 Please feel free to DM me on discord if you have a game i should add to this list. Odin.#6849
