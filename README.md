@@ -14,5 +14,7 @@ Supported Games
 - DaHood
 - Rocitizens
 - YBA
+- Doors
+- World // Zero
 
 Please feel free to DM me on discord if you have a game i should add to this list. Odin.#6849
